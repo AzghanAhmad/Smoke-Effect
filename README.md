@@ -27,7 +27,7 @@ A beautiful, interactive smoke particle animation built with Next.js, React, and
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/AzghanAhmad/Smoke-Effect.git
 cd smoke-effect
 ```
 
